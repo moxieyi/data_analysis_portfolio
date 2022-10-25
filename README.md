@@ -5,9 +5,9 @@ Hi, I'm Mo! introduction here
 This is a repository to showcase my skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of contents
-### eg1
-### ex2
-### ex3
+- Portfolio Projects
+-- ex2
+-- ex3
 
 ## Portfolio Projects
 ### ex4
